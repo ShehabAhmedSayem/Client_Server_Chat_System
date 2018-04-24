@@ -1,62 +1,49 @@
                                                   	
-                                  ****************A Chat Server System using Socket Programming******************
+****************A Chat Server System using Socket Programming******************
 
 
-																  Developed by:
+Developed by:
 
-															   Shehab Ahmed Sayem
-															   Md. Motaher Hossain
-																  
-																  Developed in:
-																  
-																  	  Java
+Shehab Ahmed Sayem
+Md. Motaher Hossain
+
+Developed in:
+
+Java
 
 
 **Base Features: 
 
+
 1. When the server system is loaded, it will initiate the required communication setup so that a client system can join it.
-	** Done by: Shehab Ahmed Sayem, Motaher Hossain **
-
+	
 2. When the client system is loaded, an option to provide the IP address/port number of the chat server and the name of joining user.
-	** Done by: Shehab Ahmed Sayem **
- 
-3. A proper GUI with a read-only text box to show the exchanged messages, a text entry field to write a new message and a Send button.
-	** Done by: Motaher Hossain **
- 
-4. Each time Send is pressed with a new message in a client system, all of the users connected to the server will immediately see the new message. 
-	** Done by: Shehab Ahmed Sayem, Motaher Hossain **
+	
+3. A proper GUI with a read-only text box to show the exchanged messages, a text entry field to write a new message and a Send button.	
 
-5. A list in the GUI to show the joined user(s) with the server. 
-	** Done by: Shehab Ahmed Sayem **
+4. Each time Send is pressed with a new message in a client system, all of the users connected to the server will immediately see the new message. 
+	
+5. A list in the GUI to show the joined user(s) with the server.
 
 6. An option, shown as a menu item, to save the exchanged messages. 
-	** Done by: Motaher Hossain **
 
+7. When the server system is loaded, it will give an option to enter the port number to open the connection in. 
+	
+8. The client system will give an option to login as an annonymous user.
+	
+9. An option in both the client and server system to clear the text area. 
+	
+10. An option in client system to show the saved messages.
+	
+11. An option in client system to send personal message to another joined user. 
 
-
-**Extra Features:
-
-1. When the server system is loaded, it will give an option to enter the port number to open the connection in. 
-	** Done by: Shehab Ahmed Sayem **
-
-2. The client system will give an option to login as an annonymous user.
-	** Done by: Shehab Ahmed Sayem, Motaher Hossain **
-
-3. An option in both the client and server system to clear the text area. 
-	** Done by: Motaher Hossain **
-
-4. An option in client system to show the saved messages.
-	** Done by: Motaher Hossain **
-
-5. An option in client system to send personal message to another joined user. 
-	** Done by: Shehab Ahmed Sayem **
-
-6. The client system will separate the status message and the user message by using a separate text area.
-	 ** Done by: Shehab Ahmed Sayem **
+12. The client system will separate the status message and the user message by using a separate text area.
+	
 
 
 
 **How to start:
+
 
 1. There are 2 .jar files in the folder. 
 
