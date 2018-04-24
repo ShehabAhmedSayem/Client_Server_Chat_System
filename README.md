@@ -1,10 +1,10 @@
                                                   	
-****************A Chat Server System using Socket Programming******************
+A Chat Server System using Socket Programming
 
 
 Developed by:
 
-Shehab Ahmed Sayem
+Shehab Ahmed Sayem,
 Md. Motaher Hossain
 
 Developed in:
